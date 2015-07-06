@@ -1,0 +1,9 @@
+A list of required skills and code to be able to effectivly use go in a production environment.
+
+1. A server
+2. A website
+3. JSON handling
+4. Read CSV file
+5. Write CSV file
+6. Efficient way of querying data
+
